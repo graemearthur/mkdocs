@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://rthur.me/docs/</loc>
+         <lastmod>2025-05-02</lastmod>
+    </url>
+    <url>
+         <loc>https://rthur.me/docs/admonitions/</loc>
+         <lastmod>2025-05-02</lastmod>
+    </url>
+    <url>
+         <loc>https://rthur.me/docs/code-examples/</loc>
+         <lastmod>2025-05-02</lastmod>
+    </url>
+    <url>
+         <loc>https://rthur.me/docs/content-tabs/</loc>
+         <lastmod>2025-05-02</lastmod>
+    </url>
+    <url>
+         <loc>https://rthur.me/docs/diagram-examples/</loc>
+         <lastmod>2025-05-02</lastmod>
+    </url>
+</urlset>
