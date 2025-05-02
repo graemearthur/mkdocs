@@ -10,6 +10,9 @@ theme:
   features:
     - navigation.footer
     - content.code.copy
+    - search.suggest
+    - search.highlight
+    - search.share
   palette:
     # Dark Mode
     - scheme: slate
